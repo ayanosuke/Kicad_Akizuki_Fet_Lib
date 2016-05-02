@@ -1,0 +1,141 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002DW
+D 60V Vds, 115mA Id, 2.53Ohm Rds, Dual N-Channel MOSFET, SC70-6 ( SOT-363 ),FAIRCHILD,2N
+K Dual N-Channel MOSFET
+F http://akizukidenshi.com/download/ds/fairchild/2N7002DW.pdf
+$ENDCMP
+#
+$CMP FDC6305N
+D 20V Vds, 2.7A Id, 80mOhm Rds, Dual N-Channel MOSFET, SuperSOT-6,FAIRCHILD,3058
+K Dual N-Channel MOSFET
+F http://akizukidenshi.com/download/ds/fairchild/FDC6305N.pdf
+$ENDCMP
+#
+$CMP FDC6561AN
+D 30V Vds, 2.5A Id, 95mOhm Rds, Dual N-Channel MOSFET, SuperSOT-6,FAIRCHILD,561
+K Dual N-Channel MOSFET
+F https://www.fairchildsemi.co.jp/datasheets/FD/FDC6561AN.pdf
+$ENDCMP
+#
+$CMP FDG1024NZ
+D 20V Vds, 1.2A Id, 175mOhm Rds, Dual N-Channel MOSFET, SC-70-6,FAIRCHILD
+K Dual N-Channel MOSFET Logic Level
+F http://www.fairchildsemi.com/ds/FD/FDG1024NZ.pdf
+$ENDCMP
+#
+$CMP FDS4559
+D 60V Vds, 4.5A Id, 55mOhm Rds,60V Vds,3.5A Id,105mOhm Rds,Nch Pch MOSFET,FAIRCHILD
+K N-Channel  P-Channel MOSFET
+F http://akizukidenshi.com/download/ds/fairchild/FDS4559.pdf
+$ENDCMP
+#
+$CMP FDS4897C
+D 40V Vds, 6.2A Id, 29mOhm Rds,40V Vds,4.4A Id,46mOhm Rds,Nch Pch MOSFET,FAIRCHILD
+K N-Channel  P-Channel MOSFET
+F http://akizukidenshi.com/download/ds/fairchild/FDS4897C.pdf
+$ENDCMP
+#
+$CMP FDS4935A
+D -30V Vds, -7A Id, 23mOhm Rds, Dual N-Channel MOSFET, SO-8,FAIRCHILD
+K Dual P-Channel MOSFET
+F http://akizukidenshi.com/download/FDS4935A.pdf
+$ENDCMP
+#
+$CMP FDS6890A
+D 20V Vds, 7.5A Id, 18mOhm Rds, Dual N-Channel MOSFET, SO-8,FAIRCHILD
+K Dual N-Channel MOSFET
+F http://www.fairchildsemi.com/ds/FD/FDS6890A.pdf
+$ENDCMP
+#
+$CMP FDS6892A
+D 20V Vds, 7.5A Id, 18mOhm Rds, Dual N-Channel MOSFET PWM Optimized, SO-8
+K Dual N-Channel MOSFET Low Gate Charge
+F http://www.fairchildsemi.com/ds/FD/FDS6892A.pdf
+$ENDCMP
+#
+$CMP FDS6898A
+D 20V Vds, 9.4A Id, 14mOhm Rds, Dual N-Channel MOSFET, SO-8
+K Dual N-Channel MOSFET
+F http://www.fairchildsemi.com/ds/FD/FDS6898A.pdf
+$ENDCMP
+#
+$CMP FDS9926A
+D 20V Vds, 6.5A Id, 30mOhm Rds, Dual N-Channel MOSFET, SO-8
+K Dual N-Channel MOSFET
+F http://www.fairchildsemi.com/ds/FD/FDS9926A.pdf
+$ENDCMP
+#
+$CMP NDS9936
+D 30V Vds, 5A Id, 50mOhm Rds, Dual N-Channel MOSFET, SO-8,FAIRCHILD
+K Dual N-Channel MOSFET
+F http://akizukidenshi.com/download/ds/fairchild/NDS9936.pdf
+$ENDCMP
+#
+$CMP SI4900DY-T1-E3
+D 60V Vds, 5.3A Id, 58mOhm Rds, Dual N-Channel MOSFET, SO-8
+K Dual N-Channel MOSFET
+F http://akizukidenshi.com/download/ds/vishay/si4900dy.pdf
+$ENDCMP
+#
+$CMP SSM6L35FE
+D 20V Vds, 180mA Id, 5Ohm Rds,10V Vgs,180mA Id,11Ohm Rds,Nch Pch MOSFET
+K N-Channel  P-Channel MOSFET
+F http://akizukidenshi.com/download/ds/toshiba/SSM6L35FE.pdf
+$ENDCMP
+#
+$CMP SSM6L36FE
+D 20V Vds, 500mA Id, 0.63Ohm Rds,20V Vds,330mA Id,1.31Ohm Rds,Nch Pch MOSFET
+K N-Channel  P-Channel MOSFET
+F http://akizukidenshi.com/download/ds/toshiba/SSM6L36FE.pdf
+$ENDCMP
+#
+$CMP SSM6N42FE
+D 20V Vds, 0.8A Id, 240mOhm Rds, Dual N-Channel MOSFET, 2-2N1D
+K Dual N-Channel MOSFET
+F http://akizukidenshi.com/download/ds/toshiba/SSM6N42FE_j.pdf
+$ENDCMP
+#
+$CMP SSM6N7002BFU
+D 60V Vds, 0.2A Id, 2.1Ohm Rds, Dual N-Channel MOSFET, 2-2J1C
+K Dual N-Channel MOSFET
+F http://akizukidenshi.com/download/ds/toshiba/SSM6N7002BFU.pdf
+$ENDCMP
+#
+$CMP Si6544DQ
+D 30V Vds, 4A Id, 50mOhm Rds,-30V Vds,3.5A Id,45mOhm Rds,Nch Pch MOSFET,TSSOP-8,VISHAY
+K N-Channel  P-Channel MOSFET
+F http://akizukidenshi.com/download/Si6544DQ.pdf
+$ENDCMP
+#
+$CMP Si9933ADY
+D -20V Vds, -3.4A Id, 75mOhm Rds, Dual N-Channel MOSFET, SO-8,VISHAY
+K Dual P-Channel MOSFET
+F http://akizukidenshi.com/download/ds/vishay/Si9933ADY.pdf
+$ENDCMP
+#
+$CMP TPC8407_LQ
+D 30V Vds, 9A Id, 14mOhm Rds,30V Vds,7.4A Id,18mOhm Rds,Nch Pch MOSFET
+K N-Channel  P-Channel MOSFET
+F http://akizukidenshi.com/download/ds/toshiba/TPC8407_datasheet_ja_20140107.pdf
+$ENDCMP
+#
+$CMP TPC8408_LQ
+D 40V Vds, 6.1A Id, 24mOhm Rds,40V Vds,5.3A Id,33mOhm Rds,Nch Pch MOSFET
+K N-Channel  P-Channel MOSFET
+F http://akizukidenshi.com/download/ds/toshiba/TPC8408_datasheet_ja_20140107.pdf
+$ENDCMP
+#
+$CMP TPCF8402
+D 30V Vds, 4A Id, 38mOhm Rds,30V Vds,3.2A Id,1.60Ohm Rds,Nch Pch MOSFET
+K N-Channel  P-Channel MOSFET
+F http://akizukidenshi.com/download/ds/toshiba/TPCF8402_j.pdf
+$ENDCMP
+#
+$CMP uPA2753GR
+D 30V Vds, 8A Id, 21.4mOhm Rds, Dual N-Channel MOSFET, SOP8
+K Dual N-Channel MOSFET
+F http://akizukidenshi.com/download/upa2753gr.pdf
+$ENDCMP
+#
+#End Doc Library
